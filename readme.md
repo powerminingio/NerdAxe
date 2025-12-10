@@ -27,6 +27,11 @@ Upgrade your NerdMiner experience throught this addon board and start playing wi
 - **TI TPS546D** buck regulator steps down the 5V input to power the BM1370
 - **Microchip EMC2101** PWM controls the fan and monitors tach output. Measuring internal die temp isn't working.
 
+## Additional Features added by Powermining
+- **Two fan connectors** - no need for splitter cable if you use secondary fan.
+- **Threaded heatsink mounting holes** PCB with M3 threads for firm heatsink mounting
+- **OG matching heatsink bolt pattern** no headache with non fitting standard bolt patterns! We keep the Bitaxe standard 41.49x41.35
+
 ## Software & Firmware
 Nerdaxe firmware was forked from original ESP-Miner version and adapted to use TTGO board and LVGL as graphic interface lib. 
 Check it here -> [ESP-Miner Nerdaxe version](https://github.com/BitMaker-hub/ESP-Miner-NerdAxe)
