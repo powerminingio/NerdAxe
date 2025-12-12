@@ -30,7 +30,7 @@ Upgrade your NerdMiner experience throught this addon board and start playing wi
 ## Additional Features added by Powermining
 - **Two fan connectors** - no need for splitter cable if you use secondary fan.
 - **Threaded heatsink mounting holes** PCB with M3 threads for firm heatsink mounting
-- **OG matching heatsink bolt pattern** no headache with non fitting standard bolt patterns! We keep the Bitaxe standard 41.49x41.35
+- **OG matching heatsink bolt pattern** no headache with non fitting standard bolt patterns! We keep the Nerdaxe standard 41.49x41.35
 
 ## Software & Firmware
 Nerdaxe firmware was forked from original ESP-Miner version and adapted to use TTGO board and LVGL as graphic interface lib. 
